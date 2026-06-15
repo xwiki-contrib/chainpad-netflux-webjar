@@ -22,7 +22,7 @@
   </parent>
   <packaging>jar</packaging>
   <artifactId>chainpad-netflux-webjar</artifactId>
-  <version>1.3.1-1</version>
+  <version>1.3.1-2-SNAPSHOT</version>
   <name>ChainPad Netflux WebJar</name>
   <description>WebJar packaging for ChainPad Netflux</description>
   <url>https://github.com/cryptpad/chainpad-netflux</url>
@@ -54,7 +54,7 @@
     <url>http://github.com/xwiki-contrib/${project.artifactId}</url>
     <connection>scm:git:git://github.com/xwiki-contrib/${project.artifactId}.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/${project.artifactId}.git</developerConnection>
-    <tag>chainpad-netflux-webjar-1.3.1-1</tag>
+    <tag>HEAD</tag>
   </scm>
   <dependencies>
     <dependency>
